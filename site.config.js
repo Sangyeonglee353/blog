@@ -49,7 +49,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
+      repo: "Sangyeonglee/blog-comment",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
