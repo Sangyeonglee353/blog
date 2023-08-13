@@ -49,7 +49,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "Sangyeonglee/blog-comment",
+      repo: "Sangyeonglee353/blog-comment",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
